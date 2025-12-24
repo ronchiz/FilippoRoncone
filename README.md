@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @wronchiz3
+- 👋 Hi, I’m Filippo Roncone
 - 👀 I’m interested in Artificial Intellignece in all its applications
 - I’m currently a student of Artificial Intelligence
 
