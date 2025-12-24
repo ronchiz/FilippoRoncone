@@ -1,5 +1,15 @@
-- 👋 Hi, I’m Filippo Roncone
-- 👀 I’m interested in Artificial Intellignece in all its applications
-- I’m currently a student of Artificial Intelligence
+# Hi, I’m Filippo Roncone
 
-Hope you will find my projects interesting
+Artificial Intelligence Graduate and Automation and Control Student at Polimi.
+
+## Research & Technical Interests
+- Deep Learning
+- Machine Learning
+- Automation and Robotics
+- Statistics
+- Audio & Speech Analysis
+
+---
+
+## Contact
+- LinkedIn:
